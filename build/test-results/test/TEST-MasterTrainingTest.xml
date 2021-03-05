@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="MasterTrainingTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-03-04T17:52:02" hostname="LAPTOP-UU1M9U8A" time="0.045">
+<testsuite name="MasterTrainingTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-03-05T01:12:11" hostname="LAPTOP-UU1M9U8A" time="0.028">
   <properties/>
-  <testcase name="shouldNotCreateAPlanWhenCheckHeart()" classname="MasterTrainingTest" time="0.04"/>
-  <testcase name="shouldCreateAPlanWhenCheckHeart()" classname="MasterTrainingTest" time="0.004"/>
+  <testcase name="shouldNotCreateAPlanWhenCheckHeart()" classname="MasterTrainingTest" time="0.025"/>
+  <testcase name="shouldCreateAPlanWhenCheckHeart()" classname="MasterTrainingTest" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
